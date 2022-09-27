@@ -29,14 +29,18 @@ I'm a **Python Developer** and a **Data Scienist**👩‍💻
 * Google workspace
 
 ## 💻Abilities
-1. Python
-2. Machine Learning
-3. Deep Learning
-4. Analysis
-4. Computer Vision
-5. Natural Language Processing (NLP)
-6. Statistcs
-8. Data Visualization
+1. Statistical Analysis and Computation
+2. Feature Engineering
+3. Machine Learning
+4. Deep Learning
+5. Computer Vision (CV)
+6. Natural Language Processing (NLP)
+7. Convolutional Neutral Network(CNN)
+8. Model Deployment
+9. EDA
+10. Recommendation Systems
+11. Data Scraping
+12. Data Visualization
 
 
 ## Other Common Github Profile Sections
