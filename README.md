@@ -1,14 +1,34 @@
 
-# Hello, I'm Olanlesi! 👋
+# *Hello*, I'm **Olanlesi!** 👋
 
 
 ## 🚀 About Me
-I'm a Data Scienist👩‍💻
-
-
+I'm a **Python Developer** and a **Data Scienist**👩‍💻
 
 
 ## 🛠 Skills
+
+### Programming
+Python
+SQL
+Java
+C
+
+### Concepts
+Object Oriented
+Data Structure
+Problem Solving
+Version Control
+Cloud Deployment
+
+### Software and Technology
+Tableau
+NPLT
+Power BI
+MySQL
+Google workspace
+
+## 💻Abilities
 1. Python
 2. Machine Learning
 3. Deep Learning
@@ -22,7 +42,7 @@ I'm a Data Scienist👩‍💻
 ## Other Common Github Profile Sections
 👩‍🎓 I've my Bsc/ed in Science/Mathematics Education
 
-🧠 I'm currently learning...
+🧠 I'm currently learning cs50's on edx
 
 📫 Send a mail to olanlesibanjo@gmail.com to get in touch
 
