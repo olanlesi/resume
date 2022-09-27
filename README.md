@@ -9,24 +9,24 @@ I'm a **Python Developer** and a **Data Scienist**👩‍💻
 ## 🛠 Skills
 
 ### Programming
-Python
-SQL
-Java
-C
+* Python
+* SQL
+* Java
+* C
 
 ### Concepts
-Object Oriented
-Data Structure
-Problem Solving
-Version Control
-Cloud Deployment
+* Object Oriented
+* Data Structure
+* Problem Solving
+* Version Control
+* Cloud Deployment
 
 ### Software and Technology
-Tableau
-NPLT
-Power BI
-MySQL
-Google workspace
+* Tableau
+* NPLT
+* Power BI
+* MySQL
+* Google workspace
 
 ## 💻Abilities
 1. Python
