@@ -5,6 +5,8 @@
 ## 🚀 About Me
 I'm a **Python Developer** and a **Data Scienist**👩‍💻
 
+[Resume](https://docs.google.com/document/d/1WaqBhDTkoWQ33t8VXrz8FQNDD6Lai7Tj2Ktlnes4tbo/edit?usp=sharing)
+
 
 ## 🛠 Skills
 
