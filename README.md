@@ -55,9 +55,10 @@ I'm a **Python Developer** and a **Data Scienist**👩‍💻
 
 
 
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/olanlesi/olanlesi)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olanlesi-banjo-659683186/)
->[![Resume](https://img.shields.io/static/v1?label=RESUME&color=yellow)](https://docs.google.com/document/d/1WaqBhDTkoWQ33t8VXrz8FQNDD6Lai7Tj2Ktlnes4tbo/edit?usp=sharing)
+
+
+![Logo](https://github-readme-stats.vercel.app/api?username=olanlesi&&show_icons=true&title_color=fff342&icon_color=b2fd5cf&text_color=0047dc&bg_color=151515)
 
