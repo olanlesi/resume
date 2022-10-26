@@ -57,9 +57,9 @@ I'm a **Python Developer** and a **Data Scienist**👩‍💻
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=blackko-fi&logoColor=white)](https://github.com/olanlesi/olanlesi)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=bluelinkedin&logoColor=white)](https://www.linkedin.com/in/olanlesi-banjo-659683186/)
->[![Resume](https://img.shields.io/badge/resume-0A66C2?style=for-the-badge&logo=purple&logoColor=yellow)](https://docs.google.com/document/d/1WaqBhDTkoWQ33t8VXrz8FQNDD6Lai7Tj2Ktlnes4tbo/edit?usp=sharing)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/olanlesi/olanlesi)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olanlesi-banjo-659683186/)
+>[![Resume](https://img.shields.io/static/v1?label=<resume>&message=<MESSAGE>&color=<yellow>)](https://docs.google.com/document/d/1WaqBhDTkoWQ33t8VXrz8FQNDD6Lai7Tj2Ktlnes4tbo/edit?usp=sharing)
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=olanlesi&&show_icons=true&title_color=fffff&icon_color=bb2acf&text_color=fff33&bg_color=00)
 
