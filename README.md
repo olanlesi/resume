@@ -1,9 +1,17 @@
 
 # *Hello*, I'm **Olanlesi!** 👋
-
+**Data Scientist** and  **Machine Learning Engineer**
 
 ## 🚀 About Me
-I'm a **Python Developer** and a **Data Scienist**👩‍💻
+Hello, I am a dedicated and oriented data scientist with outstanding interpersonal and communication skills. 
+
+Experienced at using statistical analysis and machine learning models, to predict and deliver action-oriented solutions to complex business problems.
+
+I am a coachable, focused, reliable, and organized person. I enjoy collaborating, learning, and solving challenging and straightforward issues. I also enjoy teaching and sharing knowledge.
+
+I'm available to contribute to projects and organizations.
+
+💛.
 
 [Resume](https://docs.google.com/document/d/1WaqBhDTkoWQ33t8VXrz8FQNDD6Lai7Tj2Ktlnes4tbo/edit?usp=sharing)
 
@@ -13,7 +21,6 @@ I'm a **Python Developer** and a **Data Scienist**👩‍💻
 ### Programming
 * Python
 * SQL
-* Java
 * C
 
 ### Concepts
@@ -23,9 +30,9 @@ I'm a **Python Developer** and a **Data Scienist**👩‍💻
 * Version Control
 * Cloud Deployment
 
-### Software and Technology
+### Technical
 * Tableau
-* NPLT
+* Casandra 
 * Power BI
 * MySQL
 * Google workspace
@@ -57,7 +64,7 @@ I'm a **Python Developer** and a **Data Scienist**👩‍💻
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/olanlesi/olanlesi)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olanlesi-banjo-659683186/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olanlesi-banjo/)
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=olanlesi&&show_icons=true&title_color=fff342&icon_color=b2fd5cf&text_color=0047dc&bg_color=151515)
