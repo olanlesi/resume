@@ -21,7 +21,7 @@ I'm available to contribute to projects and organizations.
 ### Programming
 * Python
 * SQL
-* C
+* R
 
 ### Concepts
 * Object Oriented
@@ -45,17 +45,18 @@ I'm available to contribute to projects and organizations.
 ✔Recommendation Systems
 ✔Machine Learning
 ✔Deep Learning
-✔Computer Vision (CV)
+✔Artifical Neural Network(ANN)
 ✔Convolutional Neural Network(CNN)
 ✔Natural Language Processing (NLP)
 ✔Recurrent Neural Network(RNN)
+✔Generative Adversarial Networks (GAN)
 ✔Model Deployment
 
 
 ## Other Common Github Profile Sections
 👩‍🎓 I've my Bsc/ed in Science/Mathematics Education
 
-🧠 I'm currently learning cs50's on edx
+🧠 I'm currently learning Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate on Coursera 
 
 📫 Send a mail to olanlesibanjo@gmail.com to get in touch
 
